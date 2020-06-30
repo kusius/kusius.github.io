@@ -7,6 +7,28 @@ img.profile {
         border-radius: 50%;      
 }
 
+.fa-github:hover
+{
+    color: green;
+}
+
+.content {
+    max-width: 500px;
+    margin: auto;
+    padding: 10px;
+  }
+
+  .masthead {
+    padding: 1rem 0;
+    margin: 2rem 0;
+    img {
+      width: 250px;
+      border-radius: 50%;
+      margin: 0 auto;
+      display: table;
+    }
+  }
+  
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
