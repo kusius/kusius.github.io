@@ -12,4 +12,4 @@ An app to record (loopback capture) currently playing audio and submit the data 
 * ACRCloud
 
 ## Glorious screenshot
-![](/assets/images/recognizer.png)
+![](/assets/img/recognizer.png)
