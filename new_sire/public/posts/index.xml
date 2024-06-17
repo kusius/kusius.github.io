@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on The coding chef</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on The coding chef</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Jun 2024 21:30:43 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A shy person goes to a conference (C3)</title>
+      <link>http://localhost:1313/posts/c3-dev-festival/</link>
+      <pubDate>Sat, 15 Jun 2024 21:30:43 +0200</pubDate>
+      <guid>http://localhost:1313/posts/c3-dev-festival/</guid>
+      <description>Going to a conference (or festival in this case) alone is common. The prerequisites are: have the available budget, time and interest. Easy enough for most people.&#xA;BUT WAIT &amp;hellip; YOU&amp;rsquo;RE AN INTROVERT.&#xA;Well good news is, friend, that&amp;rsquo;s even better! Here are a few /unstuck commands I found useful to send to my brain when attempting this feat for the first time joining C3 Festival 2024. Hopefully there&amp;rsquo;s something in there for you too.</description>
+    </item>
+  </channel>
+</rss>
