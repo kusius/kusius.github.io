@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on The coding chef</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on The coding chef</description>
+    <title>Life on The coding chef</title>
+    <link>http://localhost:1313/tags/life/</link>
+    <description>Recent content in Life on The coding chef</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 19 Jun 2024 01:04:49 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/life/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Commuting does not (go to) work</title>
       <link>http://localhost:1313/posts/commuting/</link>
