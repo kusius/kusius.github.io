@@ -4,11 +4,8 @@ date = 2024-06-15T21:30:43+02:00
 draft = false
 +++
 
-Going to a conference (or festival in this case) alone is common. The prerequisites are: have the available budget, time and interest. Easy enough for most people. 
+Going to a conference seems like a [feat of ultimate proportions](https://youtube.com/shorts/9Xu45p0K_M8?si=wxWV_b1k_EZjoqsI)?
 
-BUT WAIT ... YOU'RE AN INTROVERT. 
-
-Well good news is, friend, that's even better!
 Here are a few `/unstuck` commands I found useful to send to my brain when attempting this feat for the first time joining  [C3 Festival 2024](https://c3fest.com). Hopefully there's something in there for you too. 
 
 ## It's ok to be you
@@ -25,7 +22,7 @@ _Hindsight_: The actuality of the situation is, that you are not alone in this. 
 
 I find that we are perplexed by the meaningfulness of small talk, or lack thereof. 
 
-Search for the event schedule, find the talks, workshops and people you like to hear. This will build a mental model of scheduling and purpose during the conference. There is a safety to knowing what talks you're going to enjoy. 
+Search for the event schedule, find the talks, workshops and people you would like to hear. This will build a mental model of scheduling and purpose during the conference. There is a safety to knowing what talks you're going to enjoy. 
 
 At some point, you or another person might get lost trying to search around for the room where the next talk will be. 
 
@@ -44,12 +41,14 @@ Want to go back to base to to reflect on your notes? Go ahead!
 
 Have you made even one acquaintance? That's the oh sh**t moment. 
 
-For me, I find that when that is the case, there's a 100% amplification of the positive effect of that. In other ciscumstances, I would maybe shy away of getting to know new people and exchange information. Just because of the social "safety net". But as we established in the first hack, this safety net may not be needed.
+For me, I find that when that is the case, there's a 100% amplification of the positive effect of that. In other ciscumstances, I would maybe shy away of getting to know new people and exchange information. Just because of the social "safety net". But as we established in the previous hacks, this safety net may not be needed.
 
 
 ## Conclusion 
 
-Conferences are a great way to get to know your mind hacks for social interaction. That is because their main purpose is to learn, listen and be inspired. They differ from parties, dinner invitations or other social gatherings where the purpose is to socialize. 
+Conferences are a great way to get to know your mind hacks for social interaction. That is because their main purpose is to learn, listen and be inspired. They differ from parties, dinner invitations or other social gatherings where the purpose is to socialize ... Or is it? 
+Maybe reframing all social events to other objectives apart from 
+the _obligation_ to be talking to everybody, can be a universal hack. 
 
 These were _my_ mind hacks, yours might be completely different but I am sure they exist!  
 
