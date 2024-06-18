@@ -6,8 +6,15 @@
     <description>Recent content on The coding chef</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Jun 2024 21:30:43 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2024 01:04:49 +0300</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Commuting does not (go to) work</title>
+      <link>http://localhost:1313/posts/commuting/</link>
+      <pubDate>Wed, 19 Jun 2024 01:04:49 +0300</pubDate>
+      <guid>http://localhost:1313/posts/commuting/</guid>
+      <description>The other day, while enjoying one of the most productive days, I thought to myself why? Why am I feeling productive working from home today? I realized that within an hour, before even opening my computer to for work, I had started the day with accomplishment instead of frustration.&#xA;Frustration from staring at a car’s rear bumper for 1 hour straight. Sighing audibly or silently from “other’s” driving habits on the busy 08:00 AM Athens roads.</description>
+    </item>
     <item>
       <title>A shy person goes to a conference (C3)</title>
       <link>http://localhost:1313/posts/c3-dev-festival/</link>
