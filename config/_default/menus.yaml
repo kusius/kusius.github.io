@@ -3,7 +3,7 @@ main:
   url: /
   weight: 10
 - name: Resume
-  url: "george_kousis_resume.pdf"
+  url: "/george_kousis_resume.pdf"
   weight: 20
 # - name: About
 #   url: /about/
