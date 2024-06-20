@@ -1,6 +1,5 @@
 +++
 title = 'A shy person goes to a conference (C3)'
-featureimage = 'dog.jpeg'
 cardimage = 'dog.jpeg'
 date = 2024-06-15T21:30:43+02:00
 draft = false

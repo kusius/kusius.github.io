@@ -1,6 +1,5 @@
 +++
 title = 'Commuting does not (go to) work'
-featureimage = 'traffic.jpg'
 cardimage = 'traffic.jpg'
 date = 2024-06-19T01:04:49+03:00
 draft = false
@@ -23,7 +22,7 @@ Better roads are a no go in Athens. Better metro system ? Well it's ok, you just
 
 Incentive for people to move to other cities? Companies opening in other major cities inside Greece, could be interesting. 
 
-Also, how about not opening a companies in the busiest areas of Athens? It’s not like we’re selling clothes or fresh baked goodies ... are we 🤔 ?
+Also, how about not opening a company in the busiest areas of Athens? It’s not like we’re selling clothes or fresh baked goodies ... are we 🤔 ?
 
 Another option would be to …. well simply not get mad on the road. Which of course is attainable, but once you’ve had a taste of an actually productive way to start your day, its always at least a chore to go to work at the very best. 
 
