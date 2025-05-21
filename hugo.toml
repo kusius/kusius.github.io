@@ -5,7 +5,6 @@ theme = 'qubt'
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = "G-WLSN57SKFS"
 enableRobotsTXT = true
 
