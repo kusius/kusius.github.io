@@ -1,0 +1,38 @@
+baseURL: https://kusius.github.io/
+languageCode: en-us
+title: The coding chef
+theme: PaperMod
+DefaultContentLanguage: en
+SectionPagesMenu: main
+googleAnalytics: G-WLSN57SKFS
+enableRobotsTXT: true
+params:
+  env: production
+  title: The coding chef
+  author: George M. Kousis
+  show_reading_time: true
+  # home info mode
+  homeInfoParams:
+    Title: "Hi there \U0001F44B, im George! You can find me here:"
+
+  socialIcons:
+    - name: x
+      url: https://x.com/gmkroute
+    - name: github
+      url: https://github.com/kusius
+    - name: linkedin
+      url: https://www.linkedin.com/in/george-kousis/
+  
+  # Custom CSS
+  assets:
+    disableFingerprinting: false
+  
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+markup:
+  goldmark:
+    parser:
+      wrapStandAloneImageWithinParagraph: false
