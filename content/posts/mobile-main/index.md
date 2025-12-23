@@ -1,9 +1,14 @@
-+++
-title = "KMP: Roll your own mobileMain"
-cardimage = 'mobilemain.png'
-date = 2025-12-23T00:55:54+03:00
-draft = false
-+++
+---
+title: "KMP: Roll your own mobileMain"
+date: 2025-12-23T00:55:54+03:00
+draft: false
+cover:
+    image: "mobilemain.png" # image path/url
+    alt: "Roll you own mobileMain" # alt text
+    caption: "" # display caption under cover
+    relative: false # when using page bundles set this to true
+    hidden: false # only hide on current single page
+---
 
 
 The increasing expansion of the Kotlin Multiplatform (KMP) and Compose Multiplatform (CMP) support for Android Studio has made the development a breeze.

@@ -1,0 +1,36 @@
+/* Remove decorative backticks from inline code */
+.prose :where(code):not(:where([class~="not-prose"],[class~="not-prose"] *))::before,
+.prose :where(code):not(:where([class~="not-prose"],[class~="not-prose"] *))::after {
+  content: "" !important;
+}
+
+/* Use monospace font for inline code */
+.prose :where(code):not(:where([class~="not-prose"],[class~="not-prose"] *)) {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace !important;
+}
+
+/* Utility classes for image visibility */
+.block {
+  display: block;
+}
+
+.hidden {
+  display: none;
+}
+
+.inline {
+  display: inline;
+}
+
+/* Dark mode image switching for PaperMod theme */
+[data-theme="dark"] .dark\:hidden {
+  display: none !important;
+}
+
+[data-theme="dark"] .dark\:block {
+  display: block !important;
+}
+
+[data-theme="dark"] .dark\:inline {
+  display: inline !important;
+}
