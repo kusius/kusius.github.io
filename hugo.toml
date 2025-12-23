@@ -22,3 +22,8 @@ url = "https://github.com/kusius"
 [[params.ananke_socials]]
 name = "LinkedIn"
 url = "https://www.linkedin.com/in/george-kousis/"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.parser]
+      wrapStandAloneImageWithinParagraph = false

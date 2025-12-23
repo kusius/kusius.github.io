@@ -1,0 +1,27 @@
+{{- $dest := .Destination -}}
+{{- $ext := path.Ext $dest -}}
+{{- $base := strings.TrimSuffix $ext $dest -}}
+{{- $darkDest := printf "%s-dark%s" $base $ext -}}
+{{- $hasDark := false -}}
+{{- with .Page.Resources.GetMatch $darkDest -}}
+  {{- $hasDark = true -}}
+{{- end -}}
+
+{{- if .IsBlock -}}
+  <figure>
+    {{- if $hasDark -}}
+      <img src="{{ $dest | safeURL }}" class="block dark:hidden" {{- with .PlainText }} alt="{{ . }}" {{ end -}}loading="lazy">
+      <img src="{{ $darkDest | safeURL }}" class="hidden dark:block" {{- with .PlainText }} alt="{{ . }}" {{ end -}}loading="lazy">
+    {{- else -}}
+      <img src="{{ $dest | safeURL }}" {{- with .PlainText }} alt="{{ . }}" {{ end -}}loading="lazy">
+    {{- end -}}
+    {{- with .Title }}<figcaption>{{ . }}</figcaption>{{ end -}}
+  </figure>
+{{- else -}}
+  {{- if $hasDark -}}
+    <img src="{{ $dest | safeURL }}" class="inline dark:hidden" {{- with .PlainText }} alt="{{ . }}" {{ end -}}{{- with .Title }} title="{{ . }}" {{ end -}}loading="lazy">
+    <img src="{{ $darkDest | safeURL }}" class="hidden dark:inline" {{- with .PlainText }} alt="{{ . }}" {{ end -}}{{- with .Title }} title="{{ . }}" {{ end -}}loading="lazy">
+  {{- else -}}
+    <img src="{{ $dest | safeURL }}" {{- with .PlainText }} alt="{{ . }}" {{ end -}}{{- with .Title }} title="{{ . }}" {{ end -}}loading="lazy">
+  {{- end -}}
+{{- end -}}
