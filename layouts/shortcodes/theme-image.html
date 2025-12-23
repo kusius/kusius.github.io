@@ -1,0 +1,14 @@
+{{- $light := .Get "light" -}}
+{{- $dark := .Get "dark" -}}
+{{- $alt := .Get "alt" | default "" -}}
+{{- $caption := .Get "caption" | default "" -}}
+
+<figure>
+  <img src="{{ $light }}" alt="{{ $alt }}" class="block dark:hidden" loading="lazy" />
+  <img src="{{ $dark }}" alt="{{ $alt }}" class="hidden dark:block" loading="lazy" />
+  {{- with $caption }}
+  <figcaption class="-mt-6 mb-4 text-center text-sm text-slate-700 dark:text-slate-200">
+    {{ . | emojify }}
+  </figcaption>
+  {{- end }}
+</figure>
